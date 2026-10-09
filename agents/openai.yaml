@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Reviewer"
+  short_description: "Review code risks and write evidence-backed reports"
+  default_prompt: "Use $code-reviewer to review this PR as one full diff and write a detailed Markdown report."
